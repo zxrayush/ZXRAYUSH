@@ -4,5 +4,5 @@ cd ZxRAYUSH
 bash ZxRAYUSH
 bash AYUSH
 
-cp -r /data/data/com.termux/files/home/ZxR-AYUSH/run#Git /data/data/com.termux/files/home
+cp /data/data/com.termux/files/home/ZxR-AYUSH/run#Git /data/data/com.termux/files/home
 
