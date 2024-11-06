@@ -1,0 +1,8 @@
+
+cp -r /sdcard/ZxR-AYUSH /data/data/com.termux/files/home
+cd ZxRAYUSH
+bash ZxRAYUSH
+bash AYUSH
+
+cp -r /data/data/com.termux/files/home/ZxRAYUSH/run#Git /data/data/com.termux/files/home
+
